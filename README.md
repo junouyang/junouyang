@@ -1,5 +1,7 @@
 👋 Hi, I’m Jun Ouyang
-👀 I’m interested in Anki, Game for learning
+
+👀 I’m interested in Anki, Game for learning, etc.
+
 📫 Contact me by email: sphenx2000@gmail.com
 
 <!---
